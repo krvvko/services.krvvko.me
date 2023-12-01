@@ -1,0 +1,22 @@
+{
+  "ru": {
+    "urls": {
+      "home": "Главная",
+      "services": "Услуги",
+      "projects": "Проекты",
+      "about": "Обо мне"
+    },
+    "home": "Домой",
+    "store": "Магаз"
+  },
+  "en": {
+    "urls": {
+      "home": "Home",
+      "services": "Services",
+      "projects": "Projects",
+      "about": "About Me"
+    },
+    "home": "Home",
+    "store": "Store"
+  }
+}
